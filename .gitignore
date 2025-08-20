@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Ambiente virtual
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Modelos salvos
+*.pkl
+*.joblib
+
+# Configs do sistema
+.DS_Store
+Thumbs.db
+
+# Cache
+*.cache
+*.pytest_cache/
