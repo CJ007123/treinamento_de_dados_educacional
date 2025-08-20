@@ -97,8 +97,8 @@ Além disso, o projeto conta com visualizações gráficas e uma API com FastAPI
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/CJ007123/treinamento_de_dados_educacional.git
+cd treinamento_de_dados_educacional
 
 
 Instale as dependências:
